@@ -11,9 +11,11 @@ https://drive.google.com/file/d/1JxSGp0KylTuk42BMd20_WompM_BThweP/view?usp=share
 첫 시작화면
 
 -----------
-![Screenshot_20230220-162520](https://user-images.githubusercontent.com/110080577/220056022-9a62d778-8c03-49a6-b552-49fd8109e48d.png)
+![Screenshot_20230220-162538](https://user-images.githubusercontent.com/110080577/220056464-084dc982-0d5c-48e3-8191-5301c13e803f.png)
+
 랩 타임 기록
 
 -----------
 초기화 버튼 클릭
+![Screenshot_20230220-162520](https://user-images.githubusercontent.com/110080577/220056420-805e66c3-0a67-4df8-b7fc-9fe7fb225d50.png)
 
